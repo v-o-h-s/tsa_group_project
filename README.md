@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TSAC 2025/2026: Home Appliance Power Signature Recognition
 
 **Group Members:** Anis Si Salem, Abderrahmane Dilmi, Yacine Kaizra, Khaled Zaabat
@@ -62,6 +61,3 @@ The three prediction CSV files will be generated in the project root.
 
 ---
 *ENSIA TSAC — 2025/2026*
-=======
-# readme file <3
->>>>>>> 0340086f8387ae4475a2ae869be9850476a80d5c
